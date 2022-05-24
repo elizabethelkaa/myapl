@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "Name": "Bugati" ,
+      "Price": "800 000€",
+      "Year":"2005",
+      "Model": "Veyron"
+      
+    },
+    {
+        "id": 2,
+        "Name": "Toyota",
+        "Price": "75 000€",
+        "Year": "2002",
+        "Model": "Supra"
+        
+      },
+      {
+        "id": 3,
+        "Name": "Mercedes" ,
+        "Price": "44 000€",
+        "Year": "2003",
+        "Model": "SLK"
+        
+      },
+      {
+        "id": 4,
+        "Name": "BMW",
+        "Price": "121 000€",
+        "Year":"1994",
+        "Model": "850csi"
+    
+      },
+      {
+        "id": 5,
+        "Name": "Porsche",
+        "Price": "100 000€",
+        "Year":"1963",
+        "Model": "Carrera GT"
+        
+      },
+      {
+        "id": 6,
+        "Name":"Lamborghini" ,
+        "Price": "150 000€",
+        "Year": "2014",
+        "Model": "Huracan"
+        
+      },
+      {
+        "id": 7,
+        "Name": "Ferrari",
+        "Price": "95 000€",
+        "Year": "2012",
+        "Model": "F12" 
+        
+      },
+      {
+        "id": 8,
+        "Name":"McLaren" ,
+        "Price": "150 020",
+        "Year":"2005",
+        "Model": "720S"
+        
+      },
+      {
+        "id": 9,
+        "Name": "Maserati",
+        "Price": "113 000€",
+        "Year": "2015",
+        "Model": "MC20"
+        
+      }
+      
+
+      
+      
+
+  ]
